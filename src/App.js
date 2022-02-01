@@ -157,9 +157,7 @@ function App() {
           </ul>
         </div>
       </div>
-      <div id='about-contact-divider'>
-
-      </div>
+      <div id='about-contact-divider'></div>
       <div id="contact">
         <div className="padding-section"></div>
         <p className='titles'>CONTACT</p>
