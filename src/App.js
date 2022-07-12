@@ -159,7 +159,8 @@ function App() {
             <li>Java</li>
           </ul>
         </div>
-      </div>
+      </div> 
+      {/* comment */}
       <div id='about-contact-divider'></div>
       <div id="contact">
         <div className="padding-section"></div>
